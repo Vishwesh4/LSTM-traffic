@@ -10,18 +10,17 @@
             "wind_speed",
             "wind_direction",
             "visibility_in_miles",
-            "dew_point",
             "temperature",
-            "rain_p_h",
-            "snow_p_h",
+            "CumulativeRain",
+            "CumulativeSnow",
+            "isRain",
+            "isSnow",
             "clouds_all",
             "weather_type",
-            "dayofweek",
-            "weather_description",
-            "month",
-            "hour"
+            "season",
+            "isWorkingHour"
 		],
-		"sequence_length": 25,
+		"sequence_length": 7,
 		"train_test_split":0.8,
 		"normalise": false
 	},
@@ -37,7 +36,7 @@
 			{
 				"type": "lstm",
 				"neurons": 30,
-				"input_timesteps": 24,
+				"input_timesteps": 6,
 				"input_dim": 17,
 				"return_seq": true
 			},

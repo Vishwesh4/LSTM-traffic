@@ -1,0 +1,39 @@
+weather_type,weather_description,clouds_all,traffic_volume
+Clear,Sky is Clear,0.0,3417.2059684025744
+Clear,sky is clear,1.823498139287613,3026.460393407762
+Clouds,broken clouds,71.26457531814147,3481.830719147677
+Clouds,few clouds,19.151147959183675,3569.7423469387754
+Clouds,overcast clouds,90.19184290030212,3302.797079556898
+Clouds,scattered clouds,39.89712292938099,3841.5026155187447
+Drizzle,drizzle,87.13695652173914,3041.7326086956523
+Drizzle,heavy intensity drizzle,88.65,3158.5
+Drizzle,light intensity drizzle,82.24466571834994,3309.8577524893312
+Drizzle,shower drizzle,90.0,2010.0
+Fog,fog,54.710758377425044,2740.6031746031745
+Haze,haze,60.70288248337029,3638.919068736142
+Mist,mist,69.28638497652582,2943.9523103533484
+Rain,freezing rain,90.0,4314.0
+Rain,heavy intensity rain,79.47909967845659,3069.0707395498393
+Rain,light intensity shower rain,90.0,4667.5
+Rain,light rain,70.57207207207207,3369.9709254709255
+Rain,moderate rain,80.81809954751131,3113.825339366516
+Rain,proximity shower rain,73.01851851851852,4491.685185185185
+Rain,very heavy rain,58.5,2568.8333333333335
+Smoke,smoke,53.88235294117647,2936.176470588235
+Snow,heavy snow,86.01022146507665,3085.862010221465
+Snow,light rain and snow,83.16666666666667,3961.1666666666665
+Snow,light shower snow,67.75,4570.75
+Snow,light snow,78.45,3031.4609375
+Snow,shower snow,90.0,5664.0
+Snow,sleet,90.0,3882.0
+Snow,snow,87.2,2695.9052631578948
+Squall,SQUALLS,76.0,2061.75
+Thunderstorm,proximity thunderstorm,67.7768115942029,2992.9159420289857
+Thunderstorm,proximity thunderstorm with drizzle,84.27272727272727,2810.090909090909
+Thunderstorm,proximity thunderstorm with rain,82.2,2076.52
+Thunderstorm,thunderstorm,64.92424242424242,2558.8333333333335
+Thunderstorm,thunderstorm with drizzle,90.0,2297.0
+Thunderstorm,thunderstorm with heavy rain,74.95238095238095,2544.6190476190477
+Thunderstorm,thunderstorm with light drizzle,72.0,2858.75
+Thunderstorm,thunderstorm with light rain,78.57142857142857,2501.8571428571427
+Thunderstorm,thunderstorm with rain,84.73913043478261,3164.695652173913
