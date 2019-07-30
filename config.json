@@ -20,7 +20,7 @@
             "season",
             "isWorkingHour"
 		],
-		"sequence_length": 7,
+		"sequence_length": 10,
 		"train_test_split":0.9,
 		"normalise": false
 	},
@@ -36,7 +36,7 @@
 			{
 				"type": "lstm",
 				"neurons": 30,
-				"input_timesteps": 6,
+				"input_timesteps": 9,
 				"input_dim": 16,
 				"return_seq": true
 			},
@@ -46,12 +46,12 @@
 			},
 			{
 				"type": "lstm",
-				"neurons": 40,
+				"neurons": 20,
 				"return_seq": true
 			},
 			{
 				"type": "lstm",
-				"neurons": 40,
+				"neurons": 10,
 				"return_seq": false
 			},
 			{
